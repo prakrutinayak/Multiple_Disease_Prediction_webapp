@@ -5,3 +5,17 @@ streamlit-option-menu==0.3.2
 scikit-learn>=1.2.0
 protobuf==3.20.3
 setuptools>=68.0.0
+setuptools==78.1.0
+altair==4.2.2
+streamlit==1.2.0
+streamlit-option-menu==0.3.2
+pandas==2.2.3
+numpy==2.2.4
+scikit-learn==1.6.1
+joblib==1.4.2
+matplotlib==3.8.3
+seaborn==0.13.2
+protobuf==3.20.3
+watchdog==6.0.0
+pillow==11.1.0
+requests==2.32.3
